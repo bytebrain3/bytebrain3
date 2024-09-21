@@ -3,7 +3,6 @@
 <h3 align="center">A patented self thought programmer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytebrain3&label=Profile%20views&color=0e75b6&style=flat" alt="bytebrain3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bytebrain3&theme=" alt="bytebrain3" /></a> </p>
 
 - 🌱 I’m currently learning **VieJs , Django, Nuxt3 **
 - 💬 Ask me about **Flask , Vuejs**
