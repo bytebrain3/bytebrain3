@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytebrain3&label=Profile%20views&color=0e75b6&style=flat" alt="bytebrain3" /> </p>
 
 
-- 🌱 I’m currently learning **Django, Nuxt3 **
+- 🌱 I’m currently learning **Django, Nuxt3**
 - 💬 Ask me about **Flask, Vuejs 3**
 - 📫 How to reach me **work.dipmondal@gmail.com**
 - ⚡ Fun fact **I am nothing**
