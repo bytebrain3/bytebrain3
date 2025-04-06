@@ -1,6 +1,9 @@
 # 💫About Me :
-Hi, I’m Dip, a self-taught programmer from Bangladesh.
-I am passionate about web development and currently focused on learning React.js. I am also proficient in working with Vue 3 and Python. For frontend development, I primarily use React.js, while for backend projects, I work with Node.js/Express and Flask. I enjoy building full-stack applications and continuously expanding my knowledge in modern web technologies.
+Hi, I’m Dip — a self-taught full-stack developer from Bangladesh 🇧🇩
+💻 I specialize in Python, React.js, and Node.js/Express, with hands-on experience in Vue 3 and Flask.
+🛠️ I love building full-stack apps and solving real-world problems with clean, scalable code.
+🔁 Always learning — currently focused on mastering advanced React and modern web stacks.
+🐧 Linux/Arch user | Future-driven | Building my empire by 2027 🚀
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dip-mondal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dip-mondal3) 
