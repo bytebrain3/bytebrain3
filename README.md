@@ -25,7 +25,7 @@
 Self-taught full-stack developer, university student, and indie builder from Dhaka. I don't just write code — I architect systems, ship real products, and build toward financial freedom through software.
 
 - 🏗️ **Currently building** — A multi-vendor POS platform (Next.js  + Nest.js) with role-based access control and per-vendor shop management
-- 📦 **Published work** — [`bd-courier`](https://www.npmjs.com/package/bd-courier) — an npm package unifying Pathao, Steadfast & other Bangladeshi courier APIs under one interface
+- 📦 **Published work** — [`routexpress-bd`](https://www.npmjs.com/package/routexpress-bd) — an npm package unifying Pathao, Steadfast & other Bangladeshi courier APIs under one interface
 - 🖥️ **Self-hosting** — Raspberry Pi 4B running Docker, Pi-hole, Tailscale, and custom home infrastructure
 - 🎯 **Goal** — Remote dev roles in the US/UK market + a sustainable developer business by 2027
 - 🐧 **Daily driver** — Arch Linux + Hyprland + Fish shell
