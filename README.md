@@ -14,7 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dip-mondal3)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/dip_mondal3)
-[![Profile Views](https://visitcount.itsvg.in/api?id=bytebrain3&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
