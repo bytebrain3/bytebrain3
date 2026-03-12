@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dip-mondal3)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/dip_mondal3)
-
+[![Hits](https://hits.sh/github.com/bytebrain3.svg?style=plastic&logo=https%3A%2F%2Fwww.dipmondal.me%2F)](https://hits.sh/github.com/bytebrain3/)
 </div>
 
 ---
