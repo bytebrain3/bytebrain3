@@ -10,7 +10,7 @@
 ```
 
 ### Full-Stack Developer · Dhaka, Bangladesh 🇧🇩
-### Building scalable systems. Shipping real products. Reaching the US/UK remote market by 2027.
+### Building scalable systems. Shipping real products. I'm currently building a SaaS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dip-mondal3)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/dip_mondal3)
